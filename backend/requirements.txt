@@ -1,0 +1,6 @@
+Flask
+langchain
+python-dotenv
+openai
+langchain-community
+langchain-openai
